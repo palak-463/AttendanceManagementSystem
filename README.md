@@ -1,4 +1,4 @@
-Attendance Management System
+# Attendance Management System
 
 Credentials for logging in into the system:
 Username: CWIT (All characters are capital)
